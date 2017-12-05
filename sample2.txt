@@ -1,4 +1,5 @@
 merge_branch modification
+master_modification
 1
 2
 3
